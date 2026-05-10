@@ -1,0 +1,8 @@
+https://eric-bittu-projeto5-srcmain-61rs5p.streamlit.app/
+
+Acesso Admin:
+User: admin
+Senha: cannoli123
+
+Acesso Empresas
+Senha: demo123
