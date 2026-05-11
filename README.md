@@ -17,7 +17,7 @@ Curso de Ciência da Computação · Grupo: Brunettes
  
 ## 📌 Sobre o Projeto
  
-A **Cannoli** é uma startup foodtech que oferece CRM, automação de engajamento, cardápio digital e delivery próprio para restaurantes parceiros. O problema central identificado foi a **falta de visibilidade sobre o retorno das campanhas contratadas** — os restaurantes pagavam pelo serviço sem conseguir comprovar se as campanhas geravam resultado real.
+A **Cannoli** é uma startup foodtech que oferece CRM, automação de engajamento e cardápio digital para restaurantes parceiros. O problema central identificado foi a **falta de visibilidade sobre o retorno das campanhas contratadas**, os restaurantes pagavam pelo serviço sem conseguir comprovar se as campanhas geravam resultado real.
  
 O **Cannoli Insight Hub** é um dashboard analítico desenvolvido para resolver esse problema, centralizando dados de pedidos, campanhas e clientes em uma ferramenta de fácil interpretação, com dois perfis de acesso distintos.
  
@@ -122,8 +122,9 @@ dashboard-cannoli/
 │   │   ├── 📄 Contabilidade e Finanças.pdf
 │   │   └── 📄 Ciência de Dados.pdf
 ├── 📁 src/
-│   ├── 📁 backend/
-│   └── 📁 frontend/
+│   ├── 📁 dados/
+│   ├── 📄 main.py/
+│   └── 📄 regressao.py/
 │
 └── 📄 README.md
 ```
